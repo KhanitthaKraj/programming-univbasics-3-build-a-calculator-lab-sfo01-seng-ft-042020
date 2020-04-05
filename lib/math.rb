@@ -1,6 +1,6 @@
 def addition(num1, num2)
   # add num2 to num1
-  #puts "num1 + num2"
+  puts "num1 + num2"
   # return the result of the calculation
   num1 + num2
 end
